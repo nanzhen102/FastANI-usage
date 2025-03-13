@@ -47,6 +47,8 @@ mamba install fastANI
 ```bash
 # check if fastANI is working
 fastANI -h
+```
+```bash
 fastANI --ql list.txt --rl list.txt -t 4 -o all_all_fastani_output.txt
 # -t, threads
 # --ql, query_list
