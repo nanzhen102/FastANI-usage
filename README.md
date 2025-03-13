@@ -17,6 +17,7 @@ Ref: https://doi.org/10.1128/aem.01034-23
 #### Step 1. Prepare the genomes you will calculate.
 
 Better format them as .fna files.
+![image](./image/fig1.png)
 
 
 Make sure the number of genomes is correct.
