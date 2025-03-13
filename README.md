@@ -13,7 +13,7 @@ Ref: https://doi.org/10.1128/aem.01034-23
 
 
 
-### Protocol 🧑‍🔧
+## Protocol 🧑‍🔧
 #### Step 1. Prepare the genomes you will calculate.
 
 Better format them as .fna files.
