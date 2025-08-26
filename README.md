@@ -1,5 +1,5 @@
 # FastANI usage
- The most practical protocol to calculate ANI values | Aspen (Nanzhen) Qiao | Dr. Michael Gänzle’s lab | 20250313
+ The most practical protocol to calculate ANI values | Nanzhen Qiao | Dr. Michael Gänzle’s lab | 20250313
 
 #### ANI (average nucleotide identity)
 
